@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Введите заголовок преступления</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_details_label">Подробности</string>
+    <string name="crime_solved_label">Решено</string>
+    <string name="crime_title">Заголовок преступления</string>
+    <string name="crime_date">Дата преступления</string>
+    <string name="date_picker_title">Дата преступления:</string>
+    <string name="time_picker_title">Время преступления</string>
+    <string name="set_time_button">Изменить время</string>
+    <string name="new_crime">Новое преступление</string>
+    <string name="show_subtitle">Показать субтитры</string>
+    <string name="hide_subtitle">Скрыть субтитры</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d преступление</item>
+        <item quantity="few">%1$d преступления</item>
+        <item quantity="many">%1$d преступлений</item>
+        <item quantity="other">%1$d преступления</item>
+    </plurals>
+    <string name="crime_list_is_empty">Список преступлений пуст</string>
+    <string name="add_crime_button">Добавить новое преступление</string>
+    <string name="delete_crime_menu">Удалить преступление</string>
+    <string name="delete_dialog_text">Поставьте галочку для полного удаления</string>
+    <string name="delete_checkbox_text">Удалить навсегда</string>
+    <string name="crime_suspect_text">Выбрать подозреваемого</string>
+    <string name="crime_report_text">Отправить отчет о преступлении</string>
+    <string name="crime_report">%1$s!
+        Преступление обнаружено %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">Решено</string>
+    <string name="crime_report_unsolved">Не решено</string>
+    <string name="crime_report_no_suspect">Подозреваемый не найден.</string>
+    <string name="crime_report_suspect">Подрозреваемый %s.</string>
+    <string name="crime_report_subject">CriminalIntent Отчет о преступлении</string>
+    <string name="send_report">Отправить отчет через</string>
+    <string name="image_preview">Предпросмотр изображения</string>
+    <string name="dialog_delete_button">Удалить</string>
+    <string name="prev_dialog_btn">Закрыть</string>
+    <string name="list_crime_delete_text">УДАЛИТЬ</string>
+    <string name="delete_dialog_title_text">Нажмите УДАЛИТЬ чтобы подтвердить удаление</string>
+    <string name="delete_dialog_cancel_btn">Отмена</string>
+    <string name="default_crime_title">Crime title</string>
+    <string name="default_crime_suspect_text">Выбрать подозреваемого</string>
+</resources>

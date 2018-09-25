@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentoCriminal</string>
+    <string name="crime_title_hint">Introduzca un título para el crimen.</string>
+    <string name="crime_title_label">Título</string>
+    <string name="crime_details_label">Detalles</string>
+    <string name="crime_solved_label">Solucionado</string>
+    <string name="date_picker_title">Fecha del crimen:</string>
+    <string name="new_crime">Crimen Nuevo</string>
+    <string name="show_subtitle">Mostrar Subtítulos</string>
+    <string name="hide_subtitle">Esconder Subtítulos</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crimen</item>
+        <item quantity="other">%1$d crímenes</item>
+    </plurals>
+    <string name="crime_suspect_text">Elegir Sospechoso</string>
+    <string name="crime_report_text">Enviar el Informe del Crimen</string>
+    <string name="crime_report">%1$s!
+            El crimen fue descubierto el %2$s. %3$s, y %4$s</string>
+    <string name="crime_report_solved">El caso está resuelto</string>
+    <string name="crime_report_unsolved">El caso no está resuelto</string>
+    <string name="crime_report_no_suspect">no hay sospechoso.</string>
+    <string name="crime_report_suspect">el/la sospechoso/a es %s.</string>
+    <string name="crime_report_subject">IntentoCriminal Informe del Crimen</string>
+    <string name="send_report">Enviar el informe del crimen a través de</string>
+    <string name="crime_title">Título del crimen</string>
+    <string name="crime_date">Fecha del crimen</string>
+    <string name="time_picker_title">Tiempo del crimen</string>
+    <string name="set_time_button">Establecer el tiempo</string>
+    <string name="crime_list_is_empty">La lista de delitos está vacía</string>
+    <string name="add_crime_button">Agregar nuevo delito</string>
+    <string name="delete_crime_menu">Eliminar crimen</string>
+    <string name="delete_dialog_text">Casilla de verificación para eliminar el delito para</string>
+    <string name="delete_checkbox_text">Eliminar para siempre</string>
+     <string name="image_preview">Vista previa de la imagen</string>
+    <string name="dialog_delete_button">Eliminar</string>
+    <string name="prev_dialog_btn">Cerrar</string>
+    <string name="list_crime_delete_text">ELIMINAR</string>
+    <string name="delete_dialog_title_text">Haga clic en ELIMINAR para confirmar</string>
+    <string name="delete_dialog_cancel_btn">Cancelar</string>
+    <string name="default_crime_title">Crime title</string>
+    <string name="default_crime_suspect_text">Elegir sospechoso</string>
+</resources>
