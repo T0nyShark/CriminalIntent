@@ -14,7 +14,7 @@ CriminalIntent is the app that might help you with commonplace but unpleasant li
 Employees at work, your neighbors or acquaintances are engaged in hooliganism?
 CriminalIntent will help you to create a reports about their dirty deeds!
 
-2. What i can do with this app?
+2. What I can do with this app?
 
 You can:
 Create and save the "crime".
