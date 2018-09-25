@@ -20,12 +20,12 @@ You can:
 Create and save the "crime".
 Edit the crime title, date and time.
 Choose the suspect of the crime.
-Take a shoot of crime scene.
+Take a shot of crime scene.
 Send a crime report via social networks or save it in your notes.
 Update your crime and delete it anytime.
 
 3. I found a bug in the app!
 
-Since the application is in the alpha version, bugs and errors can be present in it.
+Since the application is in the alpha version, some bugs can be present in it.
 Please send an email to bencpb@gmail.com and describe the issue.
 
